@@ -1,7 +1,7 @@
 # OBS Time Display Plugin Instructions
 
 This OBS Lua plugin is a small tool specifically designed to display the current time in ETS2 screen recording scenarios. 
-https://i.imgur.com/61z9ZA6.png
+![](https://i.imgur.com/61z9ZA6.png)
 ## 🕐 **Main Features**
 
 1. **Flexible Time Format**
@@ -56,3 +56,4 @@ https://i.imgur.com/61z9ZA6.png
 
 
 This plugin has a clear code structure and detailed comments, making it easy to understand and modify. If you need to customize different time formats, you can modify the formatting string in the `get_formatted_time()` function.
+
